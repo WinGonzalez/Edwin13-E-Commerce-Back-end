@@ -10,4 +10,4 @@ This collection of API endpoints is in the process of being configured for an e-
 [Sequelize Documentation](https://sequelize.org/)
 
 ## Links
-Coming Soon!
+https://github.com/WinGonzalez/Edwin13-E-Commerce-Back-end
